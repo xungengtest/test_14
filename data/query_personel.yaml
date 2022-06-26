@@ -1,0 +1,14 @@
+create_personel:
+  - userid: "test05"
+    name: "测试05"
+    mobile: "13957777873"
+    department: [1]
+    email: "test05@163.com"
+    extattr_type: 0
+    extattr_name: "test"
+    extattr_text_value: "testttt"
+    extattr_web_url: "www.baidu.com"
+    extattr_web_title: "tongxunlu"
+
+test0001:
+  - access_token_flag: 0

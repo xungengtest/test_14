@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-LNC47P67",
+    "children" : [ {
+      "name" : "18132-MainThread",
+      "children" : [ {
+        "name" : "test_case_01",
+        "uid" : "2393c6cfa9ac3870",
+        "parentUid" : "e3c0693bbb96e6946df8d50f0a522a91",
+        "status" : "passed",
+        "time" : {
+          "start" : 1653789917129,
+          "stop" : 1653789917155,
+          "duration" : 26
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3c0693bbb96e6946df8d50f0a522a91"
+    } ],
+    "uid" : "7449f53e023fd997d501ba26d73cbeca"
+  } ]
+}

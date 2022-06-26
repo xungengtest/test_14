@@ -1,0 +1,21 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "获取access token",
+    "children" : [ {
+      "name" : "test_case_01",
+      "uid" : "2393c6cfa9ac3870",
+      "parentUid" : "444eb6da859a612fd649ce0e25782a9e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653789917129,
+        "stop" : 1653789917155,
+        "duration" : 26
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "444eb6da859a612fd649ce0e25782a9e"
+  } ]
+}

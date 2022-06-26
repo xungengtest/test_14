@@ -1,0 +1,80 @@
+{
+  "uid" : "2393c6cfa9ac3870",
+  "name" : "test_case_01",
+  "fullName" : "testcase.test_get_access_token.Test_Get_Access_Token#test_case_01",
+  "historyId" : "cdaed7514a8e1b7f858638985b4ce839",
+  "time" : {
+    "start" : 1653789917129,
+    "stop" : 1653789917155,
+    "duration" : 26
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bcdac18e81f1763d",
+      "name" : "b7f5bc14-f082-4c9a-9ccf-cc18bcb33600-attachment.attach",
+      "source" : "bcdac18e81f1763d.attach",
+      "type" : "text/plain",
+      "size" : 112
+    }, {
+      "uid" : "816e28f5b4fe9f92",
+      "name" : "stdout",
+      "source" : "816e28f5b4fe9f92.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "获取access token"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_get_access_token"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_Get_Access_Token"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-LNC47P67"
+  }, {
+    "name" : "thread",
+    "value" : "18132-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_get_access_token"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2393c6cfa9ac3870.json",
+  "parameterValues" : [ ]
+}

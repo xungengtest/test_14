@@ -1,0 +1,47 @@
+test0001:
+  - access_token: "12222"
+    userid: "test02"
+    name: "测试02"
+    mobile: "13977777777"
+    department: [1]
+    email: "test02@163.com"
+    extattr_type: 0
+    extattr_name: "test"
+    extattr_text_value: "testttt"
+    extattr_web_url: "www.baidu.com"
+    extattr_web_title: "tongxunlu"
+    access_token_flag: 0
+
+test00011:
+  - userid: "test02"
+    name: "测试02"
+    mobile: "13977777777"
+    department: [1]
+    email: "test02@163.com"
+    extattr_type: 0
+    extattr_name: "test"
+    extattr_text_value: "testttt"
+    extattr_web_url: "www.baidu.com"
+    extattr_web_title: "tongxunlu"
+
+test0002:
+  - name: "测试02"
+    mobile: "13977777777"
+    department: [1]
+    email: "test02@163.com"
+    extattr_type: 0
+    extattr_name: "test"
+    extattr_text_value: "testttt"
+    extattr_web_url: "www.baidu.com"
+    extattr_web_title: "tongxunlu"
+
+test0003:
+  - userid: "test03"
+    mobile: "13987777777"
+    department: [1]
+    email: "test03@163.com"
+    extattr_type: 0
+    extattr_name: "test"
+    extattr_text_value: "testttt"
+    extattr_web_url: "www.baidu.com"
+    extattr_web_title: "tongxunlu"
